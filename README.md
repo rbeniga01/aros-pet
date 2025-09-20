@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="ArosPet" src="aros.png" />
-</div>
+
 
 # Aros - Your AI Robot Partner
 
